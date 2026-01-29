@@ -1,6 +1,6 @@
 
 
-# 📘 Advanced SQL – 4th Semester | KDU
+# 📘 Advanced SQL – 4th Semester
 
 This repository contains **Advanced SQL scripts and lab tasks** developed as part of the **4th semester Advanced SQL course at KDU** (General Sir John Kotelawala Defence University). It includes practical scripts, documentation, and Power BI reports meant to demonstrate real SQL query writing and database analytics skills.
 
